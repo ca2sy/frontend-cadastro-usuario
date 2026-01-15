@@ -51,7 +51,7 @@ function Home() {
         <div key={user.id} className="card">
           <div>
             <p>
-              Nome: <span>{user.name}v</span>
+              Nome: <span>{user.name}</span>
             </p>
             <p>
               Idade: <span> {user.age} </span>
