@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Usuários
 
-Sistema web simples para cadastrar, visualizar e deletar usuários em tempo real.
+Sistema web para cadastrar, visualizar e deletar usuários em tempo real.
 
 ## Tecnologias
 
@@ -16,4 +16,10 @@ Sistema web simples para cadastrar, visualizar e deletar usuários em tempo real
 
 ## Teste a aplicação!
 
-- Link: (https://frontend-cadastro-usuario.vercel.app)
+- **Link**: [https://frontend-cadastro-usuario.vercel.app](https://frontend-cadastro-usuario.vercel.app)
+
+> ⚠️ **Nota**: O MongoDB está sendo usado gratuitamente, então a licença pode expirar em algum momento. Caso a aplicação não esteja funcionando, provavelmente é por isso. Atualizarei com outro banco de dados assim que necessário.
+
+---
+
+Desenvolvido para praticar Node.js + React
